@@ -1,3 +1,11 @@
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanityThe purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+
 <div align="center">
   <img src="images/logo/inventree.png" alt="InvenTree logo" width="200" height="auto" />
   <h1>InvenTree</h1>
